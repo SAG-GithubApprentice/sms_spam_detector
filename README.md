@@ -20,13 +20,15 @@ This repository contains code for an SMS spam detection app built using Python a
 
 2. Install the required libraries:
 
-    ```pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
 ## Usage
 
 1. Run the app:
 
-    ```python app.py
+    ```bash
+    python app.py
 
 2. Access the app through your web browser.
 
