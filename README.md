@@ -16,12 +16,14 @@ This repository contains code for an SMS spam detection app built using Python a
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your_username/sms-spam-detection.git
+   git clone https://github.com/SAG-GithubApprentice/sms_spam_detector.git
 
 2. Install the required libraries:
 
     ```bash
-    pip install -r requirements.txt
+    pip install pandas
+    pip install scikit-learn
+    pip install gradio
 
 ## Usage
 
