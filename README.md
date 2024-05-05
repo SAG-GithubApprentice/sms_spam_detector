@@ -40,10 +40,10 @@ This repository contains code for an SMS spam detection app built using Python a
 
 Here are some examples of text messages and their predictions:
 1. Input: "You are a lucky winner of $5000!"
-- Prediction: The text message: "You are a lucky winner of $5000!", is spam.
+- Prediction: The text message: "You are a lucky winner of $5000!", is not spam.
 
 2. Input: "Thanks for registering. Text 4343 to receive free updates on medicare."
-- Prediction: The text message: "Thanks for registering. Text 4343 to receive free updates on medicare.", is not spam.
+- Prediction: The text message: "Thanks for registering. Text 4343 to receive free updates on medicare.", is spam.
 
 ## License
 
