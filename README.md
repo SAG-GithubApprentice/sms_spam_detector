@@ -49,7 +49,7 @@ Here are some examples of text messages and their predictions:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details (https://opensource.org/licenses/MIT).
 
 ## Acknowlegements
 
